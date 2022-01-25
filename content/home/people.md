@@ -19,48 +19,14 @@ subtitle = ""
                  "Administration",
                  "Visitors",
                  "Alumni"]
-  [[member]]
+[[Principal Investigators]]
 	id = "Zonghu Liao"
 	position = "Associate Professor, Principal Investigator"
 	image = "liaozonghu.png"
 	email = "zonghuliao@163.com"
-	description = "I am interested in how fault plays a role in petroleum reservoir and natural hazards, using rotary-shearing experiments and 3D seismic attributes. I am also interested in machine learning and blockchain. <br/> <font color=#0000FF >E-mail: zonghuliao@163.com</font> <br/>[ORCID](https://orcid.org/0000-0001-5954-0376) <br/> [Personal Website](http://www.cup.edu.cn/geosci/szdw/fujiaoshou/101366.htm) " 
-[[member]]
-	id = "Shunjie Deng"
-	position = "Graduate student"
-	image = "dengshunjie2.jpg"
-	email = "SDeng@student.cup.edu.cn"
-	description = "If you find a path with no obstacles, it probably does not lead anywhere. In my opinion, energy is a cause worth dedicating my life to. Every single day is a new day for me to explore and touch the world. At leisure time, Badminton is my favorite."
-
-[[member]]
-	id = "Shuo Chen"
-	position = "Graduate student"
-	image = "chenshuo1.png"
-	email = "shuochen@student.cup.edu.cn"
-	description = "Since September 2019, I have been studying with a postgraduate majoring in Geological Engineering at China University of Petroleum (Beijing). I am interested in the interpretation of seismic data, especially the seismic attributes and seismic facies analysis. In my spare time, I like to play badminton with friends."
-
-[[member]]
-	id = "Lin Zhang"
-	position = "Graduate student"
-	image = "zhanglin.JPG"
-	email = "zhanglin@student.cup.edu.cn"
-	description =  "2015/9~2019/6, A bachelor with a major in Resource Exploration Engineering at China University of Petroleum (East China); 2019/9~, A postgraduate with a major in Geological Resources and Geological Engineering at China University of Petroleum (Beijing)."
-	
-[[member]]
-	id = "Xiang Hua"
-	position = "Graduate student"
-	image = "huaxiang.jpg"
-	email = "1124810902@qq.com"
-	description = "I am interested in how geologic hazards happen and I hope I can do my best to prevent geologic hazards as many as possible in the future. In my free time, I like to watch moives and listen to music."
-
-[[member]]
-	id = "Baotong Chen"
-	position = "Graduate student"
-	image = "chenbaotong1.png"
-	email = "245230068@qq.com"
-	description = "Graduate student of China University of Petroleum (Beijing).               
+	description =" <br/> <font color=#0000FF >E-mail: zonghuliao@163.com</font> <br/>[ORCID](https://orcid.org/0000-0001-5954-0376) <br/> [Personal Website](http://www.cup.edu.cn/geosci/szdw/fujiaoshou/101366.htm) " 
+             
                  
-
 [design]
   # Show user's social networking links? (true/false)
   show_social = false
