@@ -18,14 +18,7 @@ subtitle = ""
                  "Grad Students",
                  "Administration",
                  "Visitors",
-                 "Alumni"]
-[[Principal Investigators]]
-	id = "Zonghu Liao"
-	position = "Associate Professor, Principal Investigator"
-	image = "liaozonghu.png"
-	email = "zonghuliao@163.com"
-	description =" <br/> <font color=#0000FF >E-mail: zonghuliao@163.com</font> <br/>[ORCID](https://orcid.org/0000-0001-5954-0376) <br/> [Personal Website](http://www.cup.edu.cn/geosci/szdw/fujiaoshou/101366.htm) " 
-             
+                 "Alumni"]            
                  
 [design]
   # Show user's social networking links? (true/false)
