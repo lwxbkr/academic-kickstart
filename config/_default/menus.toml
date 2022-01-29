@@ -6,22 +6,17 @@
 [[main]]
   name = "中心简介"
   url = "#about"
-  weight = 10
-
-[[main]]
-  name = "中心简介"
-  url = "#posts"
-  weight = 20
+  weight = 1
 
 [[main]]
   name = "研究人员"
   url = "#demo2"
-  weight = 30
+  weight = 2
 
 [[main]]
-  name = "研究方向"
-  url = "#featured"
-  weight = 40
+  name = "研究成果"
+  url = "#accomplishments"
+  weight = 3
 
 [[main]]
   name = "联系方式"
