@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
- **廖宗湖** 
+<center> 廖宗湖 </center>  
 <div align=center>
 <img src="/img/l1.png"/>
 </div>
