@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 2  # Order that this section will appear.
 
-title = "Academic Kickstart"
+title = "研究人员"
 subtitle = ""
 
 [design]
@@ -50,26 +50,16 @@ subtitle = ""
  css_class = ""
 +++
 
-Welcome to the **Academic Kickstart** template!
+ **廖宗湖** 
+![](/img/l1.png)
+ - 中国石油大学（北京）区块链金融研究中心主任、副教授、人工智能学院博士生导师、地学院博士生导师。他取得美国俄克拉荷马大学硕士和博士学位，2015年入选中国石油大学（北京）拔尖人才计划，2021年入选首批“石大学者”，曾兼任清华大学遥感大数据研究中心副主任、清华致生联发物联网遥感大数据联合研究中心副主任。
+ - 研究方向：区块链技术与数字资产、油气大数据、金融科技。
+ - 联系方式：zonghuliao@163.com;zong@cup.edu.cn
 
-Follow our [Getting Started](https://sourcethemes.com/academic/docs/get-started/) and [Page Builder](https://sourcethemes.com/academic/docs/widgets/) guides to easily personalize the template and then [add your own content](https://sourcethemes.com/academic/docs/managing-content/).
+ **孙竹** 
 
-For inspiration, check out [the Markdown files](https://sourcethemes.com/academic/docs/install/#demo-content) which power the [personal demo](https://academic-demo.netlify.app). The easiest way to publish your new site to the internet is with [Netlify](https://sourcethemes.com/academic/docs/deployment/).
 
-- [View the documentation](https://sourcethemes.com/academic/docs/)
-- [Ask a question](http://discuss.gohugo.io/)
-- [Request a feature or report a bug](https://github.com/gcushen/hugo-academic/issues)
-- Updating? View the [Update Guide](https://sourcethemes.com/academic/docs/update/) and [Release Notes](https://sourcethemes.com/academic/updates/)
-- Support development of Academic:
-  - [Donate a coffee](https://paypal.me/cushen)
-  - [Become a backer on Patreon](https://www.patreon.com/cushen)
-  - [Decorate your laptop or journal with an Academic sticker](https://www.redbubble.com/people/neutreno/works/34387919-academic)
-  - [Wear the T-shirt](https://academic.threadless.com/)
 
-{{% alert note %}}
-This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
 
-Backgrounds can be applied to any section. Here, the *background* option is set give a *color gradient*.
 
-**To remove this section, delete `content/home/demo.md`.**
-{{% /alert %}}
+
