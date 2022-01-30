@@ -6,9 +6,9 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 2  # Order that this section will appear.
+weight = 5  # Order that this section will appear.
 
-title = "研究人员"
+title = "联系方式"
 subtitle = ""
 
 [design]
@@ -49,22 +49,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-<center> 廖宗湖 </center>  
-<div align=center><img src="/img/l1.png"/></div>
-中国石油大学（北京）区块链金融研究中心主任、副教授、人工智能学院博士生导师、地学院博士生导师。他取得美国俄克拉荷马大学硕士和博士学位，2015年入选中国石油大学（北京）拔尖人才计划，2021年入选首批“石大学者”，曾兼任清华大学遥感大数据研究中心副主任、清华致生联发物联网遥感大数据联合研究中心副主任。<br/>
-研究方向：区块链技术与数字资产、油气大数据、金融科技。<br/>
-联系方式：zonghuliao@163.com;zong@cup.edu.cn <br/>
-<br/>
-
-<center> 孙竹 </center>  
-<div align=center><img src="/img/sz.png"/></div>
-中国石油大学（北京）区块链金融研究中心联席主任、金融系系主任、教授。她取得中国人民大学经济学博士学位，曾任美国塔尔萨大学柯林斯商学院访问学者。<br/>
-研究方向：能源金融、科技金融、金融科技。<br/>
-联系方式：zhusun1231@163.com<br/>
-<br/>
- 
-
+<h1>地址：</h1></br>
+<h1>电话：</h1></br>
+<h1>邮箱：</h1></br>
 
 
 
