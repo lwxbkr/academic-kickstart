@@ -2,7 +2,7 @@
 # Slider widget.
 widget = "slider"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear.
 
 # Slide interval.
@@ -16,7 +16,7 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Hello"
+  title = "联系方式"
   content = "I am center aligned :smile:"
   align = "center"  # Choose `center`, `left`, or `right`.
 
@@ -34,21 +34,21 @@ height = ""
   cta_icon_pack = "fas"
   cta_icon = "graduation-cap"
 
-[[item]]
-  title = "Left"
-  content = "I am left aligned :smile:"
-  align = "left"
+#[[item]]
+#  title = "Left"
+#  content = "I am left aligned :smile:"
+#  align = "left"
 
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+#  overlay_color = "#555"  # An HTML color value.
+#  overlay_img = ""  # Image path relative to your `static/media/` folder.
+#  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
-[[item]]
-  title = "Right"
-  content = "I am right aligned :smile:"
-  align = "right"
+#[[item]]
+#  title = "Right"
+#  content = "I am right aligned :smile:"
+#  align = "right"
 
-  overlay_color = "#333"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+#  overlay_color = "#333"  # An HTML color value.
+#  overlay_img = ""  # Image path relative to your `static/media/` folder.
+#  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 +++
