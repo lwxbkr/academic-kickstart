@@ -65,7 +65,7 @@ subtitle = ""
 <br/>
  
 <center> 刘明明 </center>  
-<div align=center><img src="/img/sz.png"/></div>
+<div align=center><img src="/img/lmm.png"/></div>
 中国石油大学（北京）区块链金融研究中心副主任，副教授，兼任中国系统工程学会会员和中国系统工程学会能源资源系统工程分会理事。曾获中国石油大学（北京）工商管理学院，石油工程管理专业博士学位、路易斯安那州立大学能源研究中心，国家公派联合培养博士生。<br/>
 研究方向：能源金融、财税制度建模与分析、石油公司战略。<br/>
 联系方式：liumingming@cup.edu.cn<br/>
