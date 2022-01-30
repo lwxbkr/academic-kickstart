@@ -14,9 +14,14 @@
   weight = 2
 
 [[main]]
+  name = "研究方向"
+  url = "#major"
+  weight = 3
+
+[[main]]
   name = "研究成果"
   url = "#accomplishments"
-  weight = 3
+  weight = 4
 
 [[main]]
   name = "联系方式"
